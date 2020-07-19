@@ -1,0 +1,15 @@
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\bin\Debug\Gauge.exe.config
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\bin\Debug\Gauge.exe
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\bin\Debug\Gauge.pdb
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\obj\Debug\Gauge.csprojAssemblyReference.cache
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\obj\Debug\MainWindow.g.cs
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\obj\Debug\App.g.cs
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\obj\Debug\Gauge_MarkupCompile.cache
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\obj\Debug\Gauge_MarkupCompile.lref
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\obj\Debug\MainWindow.baml
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\obj\Debug\Gauge.g.resources
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\obj\Debug\Gauge.Properties.Resources.resources
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\obj\Debug\Gauge.csproj.GenerateResource.cache
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\obj\Debug\Gauge.csproj.CoreCompileInputs.cache
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\obj\Debug\Gauge.exe
+D:\wpf\WPFCustomControls\WPFCustomControls\Gauge\obj\Debug\Gauge.pdb
